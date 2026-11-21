@@ -1,4 +1,4 @@
-# Java Compound Interest Calculator 📈
+# Java Compound Interest Calculator 
 
 A console-based Java program that calculates compound interest. The user enters
 a principal amount, an annual interest rate, how many times per year the interest
